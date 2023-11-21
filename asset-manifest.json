@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newcard/static/css/main.8dc890cb.css",
+    "main.js": "/newcard/static/js/main.d0e5d459.js",
+    "static/media/pizza2.jpg": "/newcard/static/media/pizza2.2dfb869ebd59807be04d.jpg",
+    "static/media/pizza1.jpg": "/newcard/static/media/pizza1.216a822ea6d2cffb9a3b.jpg",
+    "static/media/pizza3.jpg": "/newcard/static/media/pizza3.c1a864c81dbb73f0ac19.jpg",
+    "index.html": "/newcard/index.html",
+    "main.8dc890cb.css.map": "/newcard/static/css/main.8dc890cb.css.map",
+    "main.d0e5d459.js.map": "/newcard/static/js/main.d0e5d459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc890cb.css",
+    "static/js/main.d0e5d459.js"
+  ]
+}
