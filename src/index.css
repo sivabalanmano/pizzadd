@@ -1,0 +1,184 @@
+.navbar-nav{
+  color: white;
+}
+.navbar-nav:hover{
+  color:green;
+}
+
+.d-block{
+  display: flex;
+}
+.mainl{
+  color:  black;
+  box-shadow: 1px 1px 10px black;
+  padding: 10px;
+  border-radius: 25px 25px 25px 25px ;
+}
+#now{
+  color: white;
+}
+#now:hover{
+  background-color: green;
+  color: black;
+}
+.nav-item{
+  color: blue;
+}
+.navbar-brand{
+  border-radius: 25px 25px 25px 25px;
+  padding: 25px;
+  margin-left: 100px;
+  border: 2px solid white;
+}
+.navbar-nav{
+  margin-right: 50px;
+  word-spacing: 25px;
+}
+.carousel-inner{
+  width: 700px;
+  height: 550px;
+  object-fit: cover;
+  display: flex;
+}
+.well{
+  border: 2px solid black;
+  border-radius: 50px 15px;
+  color: green;
+  height: 60px;
+  width: 400px;
+}
+.well:hover{
+  background-color: green;
+  color: white;
+}
+.center{
+  text-align: center;
+}
+.grain{
+  display: grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  text-align: center;
+  row-gap: 100px;
+  column-gap: 30px;
+  
+  align-items: center;
+
+}
+.para1{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 1erm;
+}
+.para1:hover{
+  background-color: green;
+  color: white;
+}
+.para2{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 1erm;
+}
+
+.para3{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 1erm;
+}
+.para4{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 1erm;
+}
+.para5{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 1erm;
+}
+.para2:hover{
+  background-color: green;
+  color: white;
+}
+.para3:hover{
+  background-color: green;
+  color: white;
+}
+.para4:hover{
+  background-color: green;
+  color: white;
+}
+.para5:hover{
+  background-color: green;
+  color: white;
+}
+.one{
+  border: 2px solid black;
+  border-radius: 50px 25px;
+  color: green;
+  height: 60px;
+  width: 400px;
+}
+.one:hover{
+  background-color: green;
+  color: white;
+}
+.new{
+  display: grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  text-align: start;
+  row-gap: 100px;
+  column-gap: 30px;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 100px;
+}
+.new2{
+  border: 2px solid black;
+  border-radius: 50px 25px;
+  background-color: black;
+  color: white;
+  height: 60px;
+  width: 400px;
+}
+.new2:hover{
+  color: black;
+  background-color: white;
+}
+.nav-item:hover{
+  color: green;
+}
+.nav-link:hover{
+  color: green;
+
+}
+.collapse:hover{
+  color: green;
+}
+.oneee{
+  background-color: black;
+  color: white;
+  display: grid;
+  gap:20px ;
+  grid-template-columns:repeat(auto-fit, minmax(200px,1fr));
+  /* margin: 20px; */
+  padding: 1%;
+  width: 100%;
+  text-align: center;
+}
+.bt:hover{
+  transition: 1s;
+  background-color: white;
+  color: black;
+  border-radius: 25px 25px 25px 25px ;
+}
+.btt{
+  padding: 10px;
+  border: solid white 2px;
+  border-radius: 25px 25px 25px 25px;
+}
+.btt:hover{
+  background: white;
+  color: black;
+}
+
+  
